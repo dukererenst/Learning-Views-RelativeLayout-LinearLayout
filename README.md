@@ -1,4 +1,4 @@
-# Learning Views RelativeLayout LinearLayout.
+# Learning Views RelativeLayout and LinearLayout.
 
 How to work with RelativeLayout and LinearLayout.
 
